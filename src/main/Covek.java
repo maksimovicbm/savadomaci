@@ -24,7 +24,7 @@ public class Covek {
     }
 
     public int getRednibroj_id() {
-        return rednibroj_id;
+        return r;
     }
 
     public void setRednibroj_id(int rednibroj_id) {
