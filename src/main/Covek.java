@@ -11,7 +11,7 @@ package main;
  */
 public class Covek {
     
-    int rednibroj_id;ddd
+    int rednibroj_id;
     String ime;
     String prezime;
     String mail;
